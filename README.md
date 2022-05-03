@@ -1,3 +1,3 @@
 # DOM-Basics
 
-This Projecct is design using with HTML , CSS and JavaScript
+This Project is design using with HTML , CSS and JavaScript
